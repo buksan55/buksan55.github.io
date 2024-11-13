@@ -1,0 +1,19 @@
+2024-11-13 19:56:28.502 [info] 
+
+
+
+
+2024-11-13 19:56:28.519 [info] Extension host agent started.
+2024-11-13 19:56:30.047 [info] [10.0.85.115][f2c1822b][ManagementConnection] New connection established.
+2024-11-13 19:56:31.260 [info] [10.0.85.115][0776b011][ExtensionHostConnection] New connection established.
+2024-11-13 19:56:31.467 [info] [10.0.85.115][0776b011][ExtensionHostConnection] <47> Launched Extension Host Process.
+2024-11-13 20:01:23.565 [info] [10.0.85.115][f2c1822b][ManagementConnection] The client has reconnected.
+2024-11-13 20:01:30.235 [info] [10.0.85.115][0776b011][ExtensionHostConnection] The client has reconnected.
+2024-11-13 20:03:57.978 [info] [10.0.85.115][f2c1822b][ManagementConnection] The client has reconnected.
+2024-11-13 20:12:22.875 [info] [10.0.85.115][0776b011][ExtensionHostConnection] The client has reconnected.
+2024-11-13 20:30:55.140 [info] [10.0.85.115][f2c1822b][ManagementConnection] The client has reconnected.
+2024-11-13 23:20:31.867 [info] [10.0.85.115][0776b011][ExtensionHostConnection] The client has reconnected.
+2024-11-13 23:33:03.552 [info] [10.0.85.115][f2c1822b][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-11-13 23:34:41.192 [info] [10.0.85.115][f2c1822b][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2024-11-13 23:34:41.194 [info] [10.0.85.115][f2c1822b][ManagementConnection] The client has reconnected.
+2024-11-13 23:34:41.292 [info] [10.0.85.115][0776b011][ExtensionHostConnection] The client has reconnected.

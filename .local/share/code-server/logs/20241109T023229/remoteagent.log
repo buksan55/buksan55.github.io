@@ -1,0 +1,23 @@
+2024-11-09 02:32:29.505 [info] 
+
+
+
+
+2024-11-09 02:32:29.532 [info] Extension host agent started.
+2024-11-09 02:32:29.613 [info] Started initializing default profile extensions in extensions installation folder. file:///home/coder/.local/share/code-server/extensions
+2024-11-09 02:32:29.643 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/coder/.local/share/code-server/extensions
+2024-11-09 02:32:31.112 [info] [10.0.61.154][9c476dda][ManagementConnection] New connection established.
+2024-11-09 02:32:32.150 [info] [10.0.61.154][edf48db4][ExtensionHostConnection] New connection established.
+2024-11-09 02:32:32.723 [info] [10.0.61.154][edf48db4][ExtensionHostConnection] <61> Launched Extension Host Process.
+2024-11-09 02:41:46.833 [info] Getting Manifest... ms-python.python
+2024-11-09 02:41:47.417 [info] Installing extension: ms-python.python {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/coder/.local/share/code-server/extensions/extensions.json","external":"file:///home/coder/.local/share/code-server/extensions/extensions.json","path":"/home/coder/.local/share/code-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.91.1","date":"2024-07-15T18:41:47.410Z"}}
+2024-11-09 02:41:47.777 [info] Getting Manifest... ms-python.debugpy
+2024-11-09 02:41:48.000 [info] Installing extension: ms-python.debugpy {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/coder/.local/share/code-server/extensions/extensions.json","external":"file:///home/coder/.local/share/code-server/extensions/extensions.json","path":"/home/coder/.local/share/code-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.91.1","date":"2024-07-15T18:41:47.410Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-11-09 02:41:54.675 [info] Extracted extension to file:///home/coder/.local/share/code-server/extensions/ms-python.debugpy-2024.8.0-linux-x64: ms-python.debugpy
+2024-11-09 02:41:54.700 [info] Renamed to /home/coder/.local/share/code-server/extensions/ms-python.debugpy-2024.8.0-linux-x64
+2024-11-09 02:42:16.538 [info] Extracted extension to file:///home/coder/.local/share/code-server/extensions/ms-python.python-2024.14.1-universal: ms-python.python
+2024-11-09 02:42:16.564 [info] Renamed to /home/coder/.local/share/code-server/extensions/ms-python.python-2024.14.1-universal
+2024-11-09 02:42:16.617 [info] Extension installed successfully: ms-python.debugpy file:///home/coder/.local/share/code-server/extensions/extensions.json
+2024-11-09 02:42:16.617 [info] Extension installed successfully: ms-python.python file:///home/coder/.local/share/code-server/extensions/extensions.json
+2024-11-09 02:45:22.430 [info] [10.0.61.154][9c476dda][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-11-09 02:45:22.509 [info] [10.0.61.154][edf48db4][ExtensionHostConnection] <61> Extension Host Process exited with code: 0, signal: null.

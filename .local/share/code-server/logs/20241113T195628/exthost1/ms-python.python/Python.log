@@ -1,0 +1,164 @@
+2024-11-13 19:56:36.758 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-11-13 19:56:36.759 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-11-13 19:56:36.759 [info] Experiment 'pythonTestAdapter' is active
+2024-11-13 19:56:36.759 [warning] Dir "/home/coder/.pixi/envs" is not watchable (directory does not exist)
+2024-11-13 19:56:36.759 [info] Default formatter is set to null for workspace /home/coder
+2024-11-13 19:56:36.759 [info] > pyenv which python
+2024-11-13 19:56:36.759 [info] cwd: .
+2024-11-13 19:56:36.794 [info] > pixi --version
+2024-11-13 19:56:36.795 [warning] could not find a pixi interpreter for the interpreter at /bin/python3
+2024-11-13 19:56:37.068 [info] > /bin/python3 -I ./.local/share/code-server/extensions/ms-python.python-2024.14.1-universal/python_files/get_output_via_markers.py ./.local/share/code-server/extensions/ms-python.python-2024.14.1-universal/python_files/interpreterInfo.py
+2024-11-13 19:56:37.237 [warning] could not find a pixi interpreter for the interpreter at /bin/python3
+2024-11-13 19:56:37.277 [info] Python interpreter path: /bin/python3
+2024-11-13 19:56:43.174 [info] Starting Jedi language server for coder.
+2024-11-13 20:45:31.771 [info] > /bin/python3 ./.local/share/code-server/extensions/ms-python.python-2024.14.1-universal/python_files/normalizeSelection.py
+2024-11-13 20:45:31.971 [info] Send text to terminal: /bin/python3
+2024-11-13 20:45:32.371 [info] Send text to terminal: csv_url
+
+2024-11-13 20:45:32.862 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 20:46:47.229 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 20:46:57.334 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 20:47:04.572 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 20:51:21.531 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 20:51:24.151 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 20:51:27.011 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 21:22:37.132 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 21:22:58.223 [info] Send text to terminal: /bin/python3 /home/coder/app.py
+2024-11-13 21:23:05.533 [info] > conda info --json
+2024-11-13 21:23:09.945 [info] Send text to terminal: /bin/python3 /home/coder/app.py
+2024-11-13 21:23:14.761 [info] Send text to terminal: /bin/python3 /home/coder/app.py
+2024-11-13 21:24:05.780 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 21:24:34.373 [info] Send text to terminal: /bin/python3 /home/coder/app.py
+2024-11-13 21:24:39.416 [info] Send text to terminal: /bin/python3 /home/coder/app.py
+2024-11-13 21:25:39.695 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 21:25:42.525 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 21:25:44.001 [info] > /bin/python3 ./.local/share/code-server/extensions/ms-python.python-2024.14.1-universal/python_files/normalizeSelection.py
+2024-11-13 21:25:44.109 [info] Send text to terminal: bar_chart.show()
+
+2024-11-13 21:26:23.835 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 21:26:29.555 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 21:26:38.150 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 21:28:41.952 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 21:28:43.146 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 21:28:52.597 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 21:30:03.257 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 21:30:27.041 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 21:30:35.024 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 21:47:14.159 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 21:47:23.165 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 21:48:14.940 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 21:58:02.385 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 21:58:04.902 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:02:39.597 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:03:13.649 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:03:16.945 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:05:18.008 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:05:24.219 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:05:27.212 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:05:30.519 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:05:34.948 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:05:47.059 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:06:21.003 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:06:39.231 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:17:16.449 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:17:17.563 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:18:15.318 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:18:59.352 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:19:01.429 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:19:41.412 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:19:47.899 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:19:51.309 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:19:54.975 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:20:01.009 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:20:15.079 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:20:18.030 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:20:26.259 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:20:29.345 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:20:41.017 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:20:43.099 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:20:45.924 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:20:48.738 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:24:37.041 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:24:38.690 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:33:23.138 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:34:37.839 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:34:40.867 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:34:42.083 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:35:00.628 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:35:05.083 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:35:07.755 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:35:16.827 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:35:20.912 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:35:55.685 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:41:28.808 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:42:42.313 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:43:34.424 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:43:51.393 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:44:59.102 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:45:45.510 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:46:15.164 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:46:18.277 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:46:21.409 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:46:22.818 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:46:24.389 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:46:26.484 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:46:30.030 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:46:31.948 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:46:33.867 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:46:37.574 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:46:40.152 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:46:42.923 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:46:48.893 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:46:51.418 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:48:31.421 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:48:43.244 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:49:16.945 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:49:32.955 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:49:49.991 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:49:53.051 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:50:08.382 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:50:18.670 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:50:21.207 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:50:26.403 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:50:28.009 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:50:35.483 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:50:37.205 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:51:44.510 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:51:46.828 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:51:50.112 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:51:59.671 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:52:04.638 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:52:07.083 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:59:09.454 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:59:11.336 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:59:15.593 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:59:17.236 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:59:44.443 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:59:46.379 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:59:50.120 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 22:59:59.447 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 23:00:07.378 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 23:00:19.377 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 23:00:20.809 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 23:00:22.196 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 23:00:24.209 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 23:00:25.972 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 23:00:29.395 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 23:00:39.603 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 23:00:45.002 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 23:00:47.699 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 23:00:49.178 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 23:00:51.634 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 23:00:53.449 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 23:01:09.418 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 23:01:25.054 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 23:01:26.376 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 23:01:33.965 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 23:35:11.222 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 23:35:17.007 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 23:35:32.148 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 23:35:38.780 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 23:35:46.004 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 23:35:58.532 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 23:43:34.032 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py
+2024-11-13 23:43:35.694 [info] Discover tests for workspace name: coder - uri: /home/coder/app.py

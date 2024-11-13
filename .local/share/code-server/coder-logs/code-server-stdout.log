@@ -1,0 +1,89 @@
+[2024-11-09T02:32:28.542Z] info  code-server 4.91.1 1962f48b7f71772dc2c060dbaa5a6b4c0792a549
+[2024-11-09T02:32:28.543Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-11-09T02:32:28.598Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-11-09T02:32:28.599Z] info  HTTP server listening on http://0.0.0.0:8080/
+[2024-11-09T02:32:28.599Z] info    - Authentication is disabled
+[2024-11-09T02:32:28.599Z] info    - Not serving HTTPS
+[2024-11-09T02:32:28.599Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[02:32:29] 
+
+
+
+
+[02:32:29] Extension host agent started.
+[02:32:29] Started initializing default profile extensions in extensions installation folder. file:///home/coder/.local/share/code-server/extensions
+[02:32:29] Completed initializing default profile extensions in extensions installation folder. file:///home/coder/.local/share/code-server/extensions
+[02:32:31] [10.0.61.154][9c476dda][ManagementConnection] New connection established.
+[02:32:32] [10.0.61.154][edf48db4][ExtensionHostConnection] New connection established.
+[02:32:32] [10.0.61.154][edf48db4][ExtensionHostConnection] <61> Launched Extension Host Process.
+[02:41:46] Getting Manifest... ms-python.python
+[02:41:47] Installing extension: ms-python.python {
+  isMachineScoped: false,
+  installPreReleaseVersion: false,
+  pinned: false,
+  installOnlyNewlyAddedFromExtensionPack: true,
+  isApplicationScoped: false,
+  profileLocation: p {
+    scheme: 'file',
+    authority: '',
+    path: '/home/coder/.local/share/code-server/extensions/extensions.json',
+    query: '',
+    fragment: '',
+    _formatted: 'file:///home/coder/.local/share/code-server/extensions/extensions.json',
+    _fsPath: '/home/coder/.local/share/code-server/extensions/extensions.json'
+  },
+  productVersion: { version: '1.91.1', date: '2024-07-15T18:41:47.410Z' }
+}
+[02:41:47] Getting Manifest... ms-python.debugpy
+[02:41:48] Installing extension: ms-python.debugpy {
+  isMachineScoped: false,
+  installPreReleaseVersion: false,
+  pinned: false,
+  installOnlyNewlyAddedFromExtensionPack: true,
+  isApplicationScoped: false,
+  profileLocation: p {
+    scheme: 'file',
+    authority: '',
+    path: '/home/coder/.local/share/code-server/extensions/extensions.json',
+    query: '',
+    fragment: '',
+    _formatted: 'file:///home/coder/.local/share/code-server/extensions/extensions.json',
+    _fsPath: '/home/coder/.local/share/code-server/extensions/extensions.json'
+  },
+  productVersion: { version: '1.91.1', date: '2024-07-15T18:41:47.410Z' },
+  context: { dependecyOrPackExtensionInstall: true }
+}
+[02:41:54] Extracted extension to file:///home/coder/.local/share/code-server/extensions/ms-python.debugpy-2024.8.0-linux-x64: ms-python.debugpy
+[02:41:54] Renamed to /home/coder/.local/share/code-server/extensions/ms-python.debugpy-2024.8.0-linux-x64
+[02:42:16] Extracted extension to file:///home/coder/.local/share/code-server/extensions/ms-python.python-2024.14.1-universal: ms-python.python
+[02:42:16] Renamed to /home/coder/.local/share/code-server/extensions/ms-python.python-2024.14.1-universal
+[02:42:16] Extension installed successfully: ms-python.debugpy file:///home/coder/.local/share/code-server/extensions/extensions.json
+[02:42:16] Extension installed successfully: ms-python.python file:///home/coder/.local/share/code-server/extensions/extensions.json
+[02:45:22] [10.0.61.154][9c476dda][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[02:45:22] [10.0.61.154][edf48db4][ExtensionHostConnection] <61> Extension Host Process exited with code: 0, signal: null.
+[2024-11-13T19:56:27.906Z] info  code-server 4.91.1 1962f48b7f71772dc2c060dbaa5a6b4c0792a549
+[2024-11-13T19:56:27.927Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-11-13T19:56:28.011Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-11-13T19:56:28.011Z] info  HTTP server listening on http://0.0.0.0:8080/
+[2024-11-13T19:56:28.011Z] info    - Authentication is disabled
+[2024-11-13T19:56:28.011Z] info    - Not serving HTTPS
+[2024-11-13T19:56:28.011Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[19:56:28] 
+
+
+
+
+[19:56:28] Extension host agent started.
+[19:56:30] [10.0.85.115][f2c1822b][ManagementConnection] New connection established.
+[19:56:31] [10.0.85.115][0776b011][ExtensionHostConnection] New connection established.
+[19:56:31] [10.0.85.115][0776b011][ExtensionHostConnection] <47> Launched Extension Host Process.
+[20:01:23] [10.0.85.115][f2c1822b][ManagementConnection] The client has reconnected.
+[20:01:30] [10.0.85.115][0776b011][ExtensionHostConnection] The client has reconnected.
+[20:03:57] [10.0.85.115][f2c1822b][ManagementConnection] The client has reconnected.
+[20:12:22] [10.0.85.115][0776b011][ExtensionHostConnection] The client has reconnected.
+[20:30:55] [10.0.85.115][f2c1822b][ManagementConnection] The client has reconnected.
+[23:20:31] [10.0.85.115][0776b011][ExtensionHostConnection] The client has reconnected.
+[23:33:03] [10.0.85.115][f2c1822b][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[23:34:41] [10.0.85.115][f2c1822b][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[23:34:41] [10.0.85.115][f2c1822b][ManagementConnection] The client has reconnected.
+[23:34:41] [10.0.85.115][0776b011][ExtensionHostConnection] The client has reconnected.

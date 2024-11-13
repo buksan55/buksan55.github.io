@@ -1,0 +1,69 @@
+2024-11-09 02:42:18.018 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-11-09 02:42:18.022 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-11-09 02:42:18.022 [info] Experiment 'pythonTestAdapter' is active
+2024-11-09 02:42:18.065 [warning] Dir "/home/coder/.pixi/envs" is not watchable (directory does not exist)
+2024-11-09 02:42:18.335 [info] Default formatter is set to null for workspace /home/coder
+2024-11-09 02:42:18.367 [info] Starting Environment refresh
+2024-11-09 02:42:18.658 [info] > pixi --version
+2024-11-09 02:42:18.673 [info] > hatch env show --json
+2024-11-09 02:42:18.673 [info] cwd: .
+2024-11-09 02:42:18.677 [info] > pyenv which python
+2024-11-09 02:42:18.679 [info] cwd: .
+2024-11-09 02:42:18.685 [info] Environments refresh finished (event): 320 milliseconds
+2024-11-09 02:42:18.686 [info] Environments refresh paths discovered: 320 milliseconds
+2024-11-09 02:42:18.688 [info] Environment refresh took 323 milliseconds
+2024-11-09 02:42:18.690 [warning] could not find a pixi interpreter for the interpreter at python
+2024-11-09 02:42:18.700 [info] > python -c "import sys;print(sys.executable)"
+2024-11-09 02:42:18.704 [error] [Error: Command failed: python -c "import sys;print(sys.executable)"
+/bin/sh: 1: python: not found
+
+	at ChildProcess.exithandler (node:child_process:422:12)
+	at ChildProcess.emit (node:events:530:35)
+	at maybeClose (node:internal/child_process:1105:16)
+	at ChildProcess._handle.onexit (node:internal/child_process:305:5)] {
+  code: 127,
+  killed: false,
+  signal: null,
+  cmd: 'python -c "import sys;print(sys.executable)"'
+}
+2024-11-09 02:42:18.708 [info] > pyenv which python
+2024-11-09 02:42:18.710 [info] cwd: .
+2024-11-09 02:42:18.715 [warning] could not find a pixi interpreter for the interpreter at python
+2024-11-09 02:42:18.799 [warning] could not find a pixi interpreter for the interpreter at python
+2024-11-09 02:42:18.805 [error] Unable to start Jedi language server as a valid interpreter is not selected
+2024-11-09 02:42:19.227 [info] Shell integration status changed, can confirm it's working.
+2024-11-09 02:42:19.234 [warning] could not find a pixi interpreter for the interpreter at python
+2024-11-09 02:42:19.245 [warning] could not find a pixi interpreter for the interpreter at python
+2024-11-09 02:42:19.247 [warning] could not find a pixi interpreter for the interpreter at python
+2024-11-09 02:42:19.830 [warning] could not find a pixi interpreter for the interpreter at python
+2024-11-09 02:42:19.831 [warning] could not find a pixi interpreter for the interpreter at python
+2024-11-09 02:42:19.836 [warning] could not find a pixi interpreter for the interpreter at python
+2024-11-09 02:42:19.837 [warning] could not find a pixi interpreter for the interpreter at python
+2024-11-09 02:42:24.342 [warning] could not find a pixi interpreter for the interpreter at python
+2024-11-09 02:42:24.533 [warning] could not find a pixi interpreter for the interpreter at python
+2024-11-09 02:42:41.799 [warning] could not find a pixi interpreter for the interpreter at python
+2024-11-09 02:42:42.604 [warning] could not find a pixi interpreter for the interpreter at python
+2024-11-09 02:42:44.695 [warning] could not find a pixi interpreter for the interpreter at python
+2024-11-09 02:42:47.236 [info] Starting Environment refresh
+2024-11-09 02:42:47.236 [info] Searching for interpreters in posix paths locator
+2024-11-09 02:42:47.238 [info] Searching for pyenv environments
+2024-11-09 02:42:47.240 [info] Searching for conda environments
+2024-11-09 02:42:47.241 [info] Searching for global virtual environments
+2024-11-09 02:42:47.244 [info] Searching for custom virtual environments
+2024-11-09 02:42:47.247 [info] > conda info --json
+2024-11-09 02:42:47.248 [warning] could not find a pixi interpreter for the interpreter at python
+2024-11-09 02:42:47.255 [info] pyenv is not installed
+2024-11-09 02:42:47.255 [info] Finished searching for pyenv environments: 18 milliseconds
+2024-11-09 02:42:47.259 [info] Finished searching for custom virtual envs: 21 milliseconds
+2024-11-09 02:42:47.265 [info] Finished searching for global virtual envs: 27 milliseconds
+2024-11-09 02:42:47.267 [info] Found: /bin/python3 --> /bin/python3.11
+2024-11-09 02:42:47.268 [info] Found: /bin/python3.11 --> /bin/python3.11
+2024-11-09 02:42:47.287 [info] Found: /usr/bin/python3 --> /usr/bin/python3.11
+2024-11-09 02:42:47.287 [info] Found: /usr/bin/python3.11 --> /usr/bin/python3.11
+2024-11-09 02:42:47.305 [info] Finished searching for interpreters in posix paths locator: 67 milliseconds
+2024-11-09 02:42:47.305 [info] > /bin/python3 -I ./.local/share/code-server/extensions/ms-python.python-2024.14.1-universal/python_files/get_output_via_markers.py ./.local/share/code-server/extensions/ms-python.python-2024.14.1-universal/python_files/interpreterInfo.py
+2024-11-09 02:42:47.317 [info] > /usr/bin/python3 -I ./.local/share/code-server/extensions/ms-python.python-2024.14.1-universal/python_files/get_output_via_markers.py ./.local/share/code-server/extensions/ms-python.python-2024.14.1-universal/python_files/interpreterInfo.py
+2024-11-09 02:42:47.317 [info] Environments refresh paths discovered (event): 81 milliseconds
+2024-11-09 02:42:47.320 [info] Environments refresh paths discovered: 85 milliseconds
+2024-11-09 02:42:47.457 [info] Environments refresh finished (event): 222 milliseconds
+2024-11-09 02:42:47.464 [info] Environment refresh took 229 milliseconds
