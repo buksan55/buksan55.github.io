@@ -12,3 +12,12 @@ git config --global user.name "buksan55"
 git push 
 git push -u origin master
 exit
+git config --global user.name "buksan55"
+git add .
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git push -u origin master
+git push
+git push -u origin main

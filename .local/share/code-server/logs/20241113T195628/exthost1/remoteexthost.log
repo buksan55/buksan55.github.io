@@ -1191,3 +1191,31 @@
 	at async t.GitHistoryProvider.resolveHEADMergeBase (/usr/lib/code-server/lib/vscode/extensions/git/dist/main.js:2:945925)
 	at async t.GitHistoryProvider.onDidRunGitStatus (/usr/lib/code-server/lib/vscode/extensions/git/dist/main.js:2:940157)
 2024-11-13 23:55:41.789 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3485
+2024-11-13 23:55:42.798 [error] Error: No such branch: master.
+	at F.getBranch (/usr/lib/code-server/lib/vscode/extensions/git/dist/main.js:2:935457)
+	at async T.retryRun (/usr/lib/code-server/lib/vscode/extensions/git/dist/main.js:2:1028191)
+	at async T.run (/usr/lib/code-server/lib/vscode/extensions/git/dist/main.js:2:1027795)
+	at async T.getBranch (/usr/lib/code-server/lib/vscode/extensions/git/dist/main.js:2:1016176)
+	at async T.getBranchBase (/usr/lib/code-server/lib/vscode/extensions/git/dist/main.js:2:1016462)
+	at async t.GitHistoryProvider.resolveHEADMergeBase (/usr/lib/code-server/lib/vscode/extensions/git/dist/main.js:2:945925)
+	at async t.GitHistoryProvider.onDidRunGitStatus (/usr/lib/code-server/lib/vscode/extensions/git/dist/main.js:2:940157)
+2024-11-13 23:55:47.155 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3485
+2024-11-13 23:55:48.170 [error] Error: No such branch: master.
+	at F.getBranch (/usr/lib/code-server/lib/vscode/extensions/git/dist/main.js:2:935457)
+	at async T.retryRun (/usr/lib/code-server/lib/vscode/extensions/git/dist/main.js:2:1028191)
+	at async T.run (/usr/lib/code-server/lib/vscode/extensions/git/dist/main.js:2:1027795)
+	at async T.getBranch (/usr/lib/code-server/lib/vscode/extensions/git/dist/main.js:2:1016176)
+	at async T.getBranchBase (/usr/lib/code-server/lib/vscode/extensions/git/dist/main.js:2:1016462)
+	at async t.GitHistoryProvider.resolveHEADMergeBase (/usr/lib/code-server/lib/vscode/extensions/git/dist/main.js:2:945925)
+	at async t.GitHistoryProvider.onDidRunGitStatus (/usr/lib/code-server/lib/vscode/extensions/git/dist/main.js:2:940157)
+2024-11-13 23:55:52.571 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3485
+2024-11-13 23:55:53.578 [error] Error: No such branch: master.
+	at F.getBranch (/usr/lib/code-server/lib/vscode/extensions/git/dist/main.js:2:935457)
+	at async T.retryRun (/usr/lib/code-server/lib/vscode/extensions/git/dist/main.js:2:1028191)
+	at async T.run (/usr/lib/code-server/lib/vscode/extensions/git/dist/main.js:2:1027795)
+	at async T.getBranch (/usr/lib/code-server/lib/vscode/extensions/git/dist/main.js:2:1016176)
+	at async T.getBranchBase (/usr/lib/code-server/lib/vscode/extensions/git/dist/main.js:2:1016462)
+	at async t.GitHistoryProvider.resolveHEADMergeBase (/usr/lib/code-server/lib/vscode/extensions/git/dist/main.js:2:945925)
+	at async t.GitHistoryProvider.onDidRunGitStatus (/usr/lib/code-server/lib/vscode/extensions/git/dist/main.js:2:940157)
+2024-11-13 23:55:57.894 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3485
+2024-11-13 23:56:35.999 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'

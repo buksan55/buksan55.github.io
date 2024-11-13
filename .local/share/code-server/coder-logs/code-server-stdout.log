@@ -87,3 +87,4 @@
 [23:34:41] [10.0.85.115][f2c1822b][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
 [23:34:41] [10.0.85.115][f2c1822b][ManagementConnection] The client has reconnected.
 [23:34:41] [10.0.85.115][0776b011][ExtensionHostConnection] The client has reconnected.
+[23:58:40] [10.0.85.115][0776b011][ExtensionHostConnection] The client has reconnected.
