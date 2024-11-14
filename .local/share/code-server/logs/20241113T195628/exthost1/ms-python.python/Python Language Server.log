@@ -725,3 +725,11 @@ WARNING:pygls.protocol:Cancel notification for unknown message id "1473"
 
 2024-11-14 00:09:50.389 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1563"
 
+2024-11-14 02:10:49.837 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1574"
+
+2024-11-14 02:10:49.838 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1573"
+
+2024-11-14 02:10:49.843 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1576"
+
+2024-11-14 02:10:49.845 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1575"
+

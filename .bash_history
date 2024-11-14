@@ -33,3 +33,38 @@ git init
 git add .
 git commit -m Initial commit"
 git push -u origin main
+git clone https://huggingface.co/spaces/Seungmin0518/IS445
+git add app.py
+git commit -m "Add application file"
+git push
+git add app.py
+git add .
+git commit -m "Add application file"
+git push
+git clone https://huggingface.co/spaces/Seungmin0518/IS445HW5
+git add app.py
+git commit -m "Add application file"
+streamlit app.py run
+streamlit app.py run
+cd IS445
+exit
+git config --global list
+git config --global --list
+git config --global user.name = "buksan55"
+git init
+git add .
+git commit -m "Initial commit"
+git push -u origin main
+git pull origin main --rebse
+git add .
+git rebase --continue
+git init
+git add .
+git commit -m "Initial commit"
+git push -u origin main
+git pull
+git push -u origin main
+git pull
+git push -u origin main --force
+cd IS445HW5
+streamlit run app.py
