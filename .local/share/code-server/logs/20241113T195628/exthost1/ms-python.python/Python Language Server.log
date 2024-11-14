@@ -721,3 +721,7 @@ WARNING:pygls.protocol:Cancel notification for unknown message id "1473"
 
 2024-11-13 23:50:10.034 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1558"
 
+2024-11-14 00:09:49.467 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1562"
+
+2024-11-14 00:09:50.389 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1563"
+

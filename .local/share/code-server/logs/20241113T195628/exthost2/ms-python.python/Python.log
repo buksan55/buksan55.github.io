@@ -1,0 +1,11 @@
+2024-11-14 01:14:23.645 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-11-14 01:14:23.645 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-11-14 01:14:23.645 [info] Experiment 'pythonTestAdapter' is active
+2024-11-14 01:14:23.645 [warning] Dir "/home/coder/.pixi/envs" is not watchable (directory does not exist)
+2024-11-14 01:14:23.645 [info] Default formatter is set to null for workspace /home/coder
+2024-11-14 01:14:23.645 [info] Python interpreter path: /bin/python3
+2024-11-14 01:14:24.385 [info] > pyenv which python
+2024-11-14 01:14:24.386 [info] cwd: .
+2024-11-14 01:14:24.774 [info] > pixi --version
+2024-11-14 01:14:24.832 [warning] could not find a pixi interpreter for the interpreter at /bin/python3
+2024-11-14 01:14:28.539 [info] Starting Jedi language server for coder.
