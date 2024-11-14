@@ -1219,3 +1219,4 @@
 	at async t.GitHistoryProvider.onDidRunGitStatus (/usr/lib/code-server/lib/vscode/extensions/git/dist/main.js:2:940157)
 2024-11-13 23:55:57.894 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3485
 2024-11-13 23:56:35.999 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-11-14 00:01:09.380 [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
